@@ -9,7 +9,6 @@
 <br/>
 
 ![MSc](https://img.shields.io/badge/M.Sc.-Ingenier%C3%ADa%20Civil%20(U.%20Cartagena)-6D28D9?style=flat-square&logo=googlescholar&logoColor=white)
-![Location](https://img.shields.io/badge/Location-Cartagena%2C%20Bol%C3%ADvar%2C%20Colombia-4C1D95?style=flat-square&logo=googlemaps&logoColor=white)
 
 <br/>
 
